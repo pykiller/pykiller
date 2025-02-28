@@ -1,4 +1,5 @@
-<img width="721" alt="02" src="https://github.com/user-attachments/assets/6d7457b7-6f5d-42da-8ad4-3af21bcfd822" />
+<img width="320" alt="02" src="https://github.com/user-attachments/assets/21f483bb-0efa-454c-b289-e108a8f7b5e2" />
+
 
 # 你好，我是 pykiller 👋
 
