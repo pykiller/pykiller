@@ -9,11 +9,7 @@
 
 ## GitHub 统计
 
-![pykiller's GitHub stats](https://github-readme-stats.vercel.app/api?username=pykiller&show_icons=true&theme=radical)
-
-## 最常用语言
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pykiller&layout=compact&theme=radical)
+![pykiller's GitHub stats](https://github-readme-stats.vercel.app/api?username=pykiller&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pykiller&layout=compact&theme=radical)
 
 ## 项目
 
