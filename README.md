@@ -1,16 +1,23 @@
-## Hi there 👋
+# 你好，我是 pykiller 👋
 
-<!--
-**pykiller/pykiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
 
-Here are some ideas to get you started:
+- 🔭 落魄红队，在线讨饭。
+- 🌱 面向GPT编程，主要是涉及日常攻防使用的项目。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## GitHub 统计
+
+![pykiller's GitHub stats](https://github-readme-stats.vercel.app/api?username=pykiller&show_icons=true&theme=radical)
+
+## 最常用语言
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pykiller&layout=compact&theme=radical)
+
+## 项目
+
+- [API-T00L](https://github.com/pykiller/API-T00L): 互联网厂商API利用工具，包含钉钉、企业微信、飞书等API的利用工具。
+- [v2ray-c2](https://github.com/pykiller/v2ray-c2): v2ray隧道配置插件，方便生成配置文件。参考@xinyu和某个不愿透露姓名的神秘人物。
+
