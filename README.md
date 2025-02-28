@@ -1,3 +1,5 @@
+<img width="721" alt="02" src="https://github.com/user-attachments/assets/6d7457b7-6f5d-42da-8ad4-3af21bcfd822" />
+
 # 你好，我是 pykiller 👋
 
 ## 关于我
